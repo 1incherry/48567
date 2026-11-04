@@ -1,0 +1,61 @@
+{
+  "qwen_reference": {
+    "original_name": "qwen_hw_tiled.bin",
+    "bytes": 234593792,
+    "sha256": "f6db1e0730c0392ca3902df30dab99e81de9efbd7595f15c5e4d28ee241b93b2",
+    "parts": [
+      {
+        "file": "part_000.bin",
+        "bytes": 41943040,
+        "sha256": "3c041efb0dcb201c24519ea9a6c174f34667aa8d095360a78c20db2bc2e4b12d"
+      },
+      {
+        "file": "part_001.bin",
+        "bytes": 41943040,
+        "sha256": "1a6c0c25b6ed1ce047c79beda26c7dc01e02a7d15b6f6a26eacc98fc9f4d7837"
+      },
+      {
+        "file": "part_002.bin",
+        "bytes": 41943040,
+        "sha256": "0cf2fb342aad7f7ed3236870a45d8fb3242b126104c804a5e8550d1f75ce2688"
+      },
+      {
+        "file": "part_003.bin",
+        "bytes": 41943040,
+        "sha256": "f6e389e756b4ed90de8a10badfb6e23527ba95ff28c80577deb2159f34d289bb"
+      },
+      {
+        "file": "part_004.bin",
+        "bytes": 41943040,
+        "sha256": "63cce125c58f01e8874d33cd681fe13b3aa2716d89ed821bde4846618c902137"
+      },
+      {
+        "file": "part_005.bin",
+        "bytes": 24878592,
+        "sha256": "980dfb9fa295e3f8f49fec0ae2c0db7fc6cf44a8badedbd91602da4274a1d1bb"
+      }
+    ]
+  },
+  "npu_v4_model": {
+    "original_name": "MODEL.BIN",
+    "bytes": 100626432,
+    "sha256": "b6a267c0336091f1a43a43707826bdf130d575205be00251fd198f72352269fb",
+    "parts": [
+      {
+        "file": "part_000.bin",
+        "bytes": 41943040,
+        "sha256": "db8cb1c7fd3efd2ec90980877ccda21aa0b55f1255efce859e7d60c889b40b67"
+      },
+      {
+        "file": "part_001.bin",
+        "bytes": 41943040,
+        "sha256": "dc67fdf69805eda4a242428d32aeddf8f71a15d003b6981cfda37e9de08b3a2d"
+      },
+      {
+        "file": "part_002.bin",
+        "bytes": 16740352,
+        "sha256": "2d3c3e56374d568b089a7db254682bc1b429b3fdc5bdd2734ec27a3c0c0bb596"
+      }
+    ]
+  }
+}
